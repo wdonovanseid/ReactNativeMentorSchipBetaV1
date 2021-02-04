@@ -1,0 +1,12 @@
+{
+  "name": "ReactNativeMentorSchipV1",
+  "displayName": "ReactNativeMentorSchipV1",
+  "expo": {
+    "name": "ReactNativeMentorSchipV1",
+    "slug": "ReactNativeMentorSchipV1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
